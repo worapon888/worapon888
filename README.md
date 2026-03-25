@@ -13,9 +13,9 @@ Full-Stack Engineer building production-grade APIs & systems
 </p>
 
 <p align="center">
-  🌐 <a href="https://worapon.dev">worapon.dev</a> · 
-  📧 <a href="mailto:your-email@example.com">Email</a> · 
-  💼 <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+   <a href="https://worapon.dev">worapon.dev</a> · 
+   <a href="mailto:your-email@example.com">Email</a> · 
+   <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
 </p>
 
 ---
