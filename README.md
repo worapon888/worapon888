@@ -1,4 +1,4 @@
-<h1 align="center">Worapon</h1>
+<h1 align="center">Worapon.dev</h1>
 <h3 align="center">
 Full-Stack Engineer building production-grade APIs & systems
 </h3>
@@ -35,7 +35,7 @@ Currently building **MinimalMart**, a production-grade e-commerce backend explor
 
 ## ⚙️ Tech Stack
 
-### 🧩 Backend
+###  Backend
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
@@ -45,7 +45,7 @@ Currently building **MinimalMart**, a production-grade e-commerce backend explor
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
@@ -53,12 +53,12 @@ Currently building **MinimalMart**, a production-grade e-commerce backend explor
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### 🧠 Interests
+###  Interests
 `System Design` · `API Architecture` · `Backend-for-Frontend`
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### 🛒 MinimalMart
 
@@ -80,7 +80,7 @@ E-commerce system built around **real production backend challenges**
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=worapon888&theme=tokyonight&show_icons=true" />
