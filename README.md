@@ -20,7 +20,7 @@ Full-Stack Engineer building production-grade APIs & systems
 
 ---
 
-## 🧠 About
+##  About
 
 Full-Stack Engineer with a backend focus — I care about systems that scale, APIs that don’t break under load, and code that’s still maintainable six months later.
 
